@@ -15,7 +15,8 @@
   ![modal](https://user-images.githubusercontent.com/53245629/149522559-fb6cf01b-d4c2-471e-8b2b-3d875f90c020.png)
 
 ## Um curto video no IOS
- ![IOS](https://user-images.githubusercontent.com/53245629/149559427-879e5ee8-93e5-4356-ba11-25b72195b557.gif)
+ ![IOS](https://user-images.githubusercontent.com/53245629/149560317-c6e6eadc-4744-47db-90a9-61580ab0a7d5.gif)
+
 
 ## 🚀 Skills
 <div>
